@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OpenCVOCR</string>
+    <string name="app_about">Abort</string>
+    <string name="reg_title">\nRecognition results:</string>
+    <string name="reg_hint">Press the button to recognize 7-segments digitals\n</string>
+
+</resources>
