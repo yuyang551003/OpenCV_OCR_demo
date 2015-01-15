@@ -112,7 +112,7 @@ public class MainActivity extends Activity implements CvCameraViewListener2{
     private final int iMsgScanAnimation = 0x124;
     
     private String sRecogResults = "";
-    private Timer tAnimationTimer;
+    private Timer tAnimationTimer = null;
     
     private Handler handler = new Handler()
 	{
